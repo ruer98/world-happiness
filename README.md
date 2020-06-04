@@ -18,4 +18,4 @@ Each country's "Happiness Score" is calculated by summing the seven other variab
 - Which are the happiest and least happy countries and regions in the world?
 - Is happiness affected by region?
 - Did the happiness score change significantly from 2015 to 2017?
-- **Is the World Happiness Report an accurate measure true happiness?***
+- **Is the World Happiness Report an accurate measure true happiness?**
